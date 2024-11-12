@@ -20,11 +20,11 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 <div align="center">
  
- ![Python](https://badgen.net/badge/Python/Proficiency/3776AB?icon=python&color=006400)
- ![C++](https://badgen.net/badge/C++/Proficiency/00599C?icon=code&color=cyan)
- ![Linux](https://badgen.net/badge/Linux/Proficiency/0080ff?icon=terminal)
- ![Android](https://badgen.net/badge/Android/Proficiency/green?icon=android)
- ![Windows](https://badgen.net/badge/Windows/Proficiency/blue?icon=windows)
+ ![Python](https://badgen.net/badge/Python/Proficiency/3776AB?icon=python&color=0080ff)
+ ![C++](https://badgen.net/badge/C++/Proficiency/0080ff?icon=code&color=0080ff)
+ ![Linux](https://badgen.net/badge/Linux/Proficiency/006400?icon=terminal)
+ ![Android](https://badgen.net/badge/Android/Proficiency/0080ff?icon=android)
+ ![Windows](https://badgen.net/badge/Windows/Proficiency/0080ff?icon=windows)
 
 </div>
 
