@@ -29,8 +29,10 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 - **Working with Data:** From data cleaning to in-depth analysis, I’m driven by the insights that data can bring.
 
 ## 🐍 My GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
-
+<div align="center">
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
+</div>
+  
 ## 📈 GitHub Stats
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=tokyonight)
 
