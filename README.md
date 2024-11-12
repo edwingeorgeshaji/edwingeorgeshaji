@@ -32,7 +32,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
 
 ## 📈 GitHub Stats
-![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=tokyonight)
+![Edwin's GitHub stats]( align="center"https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=tokyonight)
 
 ## 🫱🏼‍🫲🏼 Let's Connect!
 <a href="https://www.linkedin.com/in/edwingeorgeshaji" style="text-decoration: none;">
