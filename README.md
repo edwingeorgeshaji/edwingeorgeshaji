@@ -30,7 +30,9 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 ## 🐍 My GitHub Streak
 <div align="center">
+ 
  ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
+ 
 </div>
   
 ## 📈 GitHub Stats
