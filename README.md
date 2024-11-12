@@ -65,7 +65,7 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 <div align="center">
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=3333ff&style=flat" alt="Edwin George Shaji" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=3333ff&style=flat" alt="Edwin George Shaji" />
 
 </div>
 
