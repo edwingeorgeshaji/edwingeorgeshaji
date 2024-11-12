@@ -22,7 +22,7 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
  
  ![Python](https://badgen.net/badge/Python/Proficiency/3776AB?icon=python&color=006400)
  ![C++](https://badgen.net/badge/C++/Proficiency/00599C?icon=code&color=cyan)
- ![Linux](https://badgen.net/badge/Linux/Proficiency/yellow?icon=0080ff)
+ ![Linux](https://badgen.net/badge/Linux/Proficiency/yellow?icon=terminal)
  ![Android](https://badgen.net/badge/Android/Proficiency/green?icon=android)
  ![Windows](https://badgen.net/badge/Windows/Proficiency/blue?icon=windows)
 
