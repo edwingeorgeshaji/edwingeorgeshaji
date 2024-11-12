@@ -13,6 +13,8 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
  
  <a href="https://www.python.org" style="display:inline-block;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><a href="https://isocpp.org/" style="text-decoration: none;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/><a href="https://www.linux.org" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/><a href="https://www.android.com" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/><a href="https://www.microsoft.com/en-in/windows?r=1" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" width="40" height="40"/>
 
+
+
 </div>
 
 
@@ -59,7 +61,14 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 </div>
 
 
-Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=3333ff&style=flat" alt="Edwin George Shaji" /> </p>
+Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
+
+<div align="center">
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=3333ff&style=flat" alt="Edwin George Shaji" /> </p>
+
+</div>
+
 
 
 ---
