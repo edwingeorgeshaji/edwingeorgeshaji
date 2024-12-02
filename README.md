@@ -46,7 +46,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 ## 🫱🏼‍🫲🏼 Let's Connect!
 <div align="center">
- </a> <a href="https://linktr.ee/edwingeorge_007" style="text-decoration: none;"><img width="39" height="39" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
+ </a> <a href="https://linktr.ee/edwingeorge_007" style="text-decoration: none;"><img width="38" height="38" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
  <a href="https://www.linkedin.com/in/edwingeorgeshaji" style="text-decoration: none;">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> <a href="https://www.instagram.com/edwin_george_shaji" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwingeorgeshajipadiyanickal@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
 
