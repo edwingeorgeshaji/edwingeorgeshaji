@@ -1,4 +1,4 @@
-# Yoo... the name is Edwin! <img src="https://i.imgur.com/0Ce902y.gif" width="39" height="39" />
+# Yoo... the name is Edwin! <img src="https://i.imgur.com/0Ce902y.gif" width="49" height="49" />
 
 
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
