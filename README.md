@@ -60,4 +60,4 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 
 ---
-🌟 <em>*"Code is like humor. When you have to explain it, it’s bad."*<em> — Cory House <img src="https://i.imgur.com/Nm9V1ym.gif" width="107" height="40" />
+🌟 <em>*"Code is like humor. When you have to explain it, it’s bad."*<em> — Cory House <img src="https://i.imgur.com/Nm9V1ym.gif" width="104" height="39" />
