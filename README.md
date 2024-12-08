@@ -1,4 +1,4 @@
-# Yoo... the name is Edwin! 
+# Yoo... the name is Edwin! <img src="https://media.giphy.com/media/3o6ozhio34uZUIjeFy/giphy.gif" width="30" height="30" />
 
 
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
