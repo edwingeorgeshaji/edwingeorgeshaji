@@ -31,7 +31,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 - **Building Applications:** I love creating efficient, user-centered applications that solve real problems.
 - **Working with Data:** From data cleaning to in-depth analysis, I’m driven by the insights that data can bring.
 
-## 🐍 My GitHub Streak <img src="https://preview.redd.it/more-transparent-gifs-i-made-from-the-pok%C3%A9mon-anime-for-an-v0-djd5c2rjta9a1.gif" width="44" height="25" />
+## 🐍 My GitHub Streak <img src="https://preview.redd.it/more-transparent-gifs-i-made-from-the-pok%C3%A9mon-anime-for-an-v0-djd5c2rjta9a1.gif?width=640&crop=smart&auto=webp&s=34cea9dfeb4281d725cadf8fb7228012451ee225" width="44" height="25" />
 <div align="center">
  
  ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
