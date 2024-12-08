@@ -4,12 +4,12 @@
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
 
-## 📊 My Contribution Graph<img src="https://i.redd.it/n2qi3magta9a1.gif" width="44" height="25" />
+## 📊 My Contribution Graph <img src="https://i.redd.it/n2qi3magta9a1.gif" width="44" height="25" />
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwingeorgeshaji&theme=tokyo-night)](https://github.com/edwingeorgeshaji)
 
 
 
-## 🛠️ Languages & Skills
+## 🛠️ Languages & Skills <img src="https://i.redd.it/ukbxkyy0yb7a1.gif" width="44" height="25" />
 <div align="center">
  
  <a href="https://www.python.org" style="display:inline-block;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><a href="https://isocpp.org/" style="text-decoration: none;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/><a href="https://www.linux.org" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/><a href="https://www.android.com" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/><a href="https://www.microsoft.com/en-in/windows?r=1" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" width="40" height="40"/>
