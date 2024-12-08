@@ -9,7 +9,7 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 
 
-## 🛠️ Languages & Skills <img src="https://i.redd.it/n2qi3magta9a1.gif" width="44" height="25" />
+## 🛠️ Languages & Skills
 <div align="center">
  
  <a href="https://www.python.org" style="display:inline-block;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><a href="https://isocpp.org/" style="text-decoration: none;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/><a href="https://www.linux.org" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/><a href="https://www.android.com" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/><a href="https://www.microsoft.com/en-in/windows?r=1" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" width="40" height="40"/>
@@ -31,7 +31,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 - **Building Applications:** I love creating efficient, user-centered applications that solve real problems.
 - **Working with Data:** From data cleaning to in-depth analysis, I’m driven by the insights that data can bring.
 
-## 🐍 My GitHub Streak <img src="https://preview.redd.it/more-transparent-gifs-i-made-from-the-pok%C3%A9mon-anime-for-an-v0-djd5c2rjta9a1.gif?width=640&crop=smart&auto=webp&s=34cea9dfeb4281d725cadf8fb7228012451ee225" width="44" height="25" />
+## 🐍 My GitHub Streak
 <div align="center">
  
  ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
