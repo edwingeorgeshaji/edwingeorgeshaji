@@ -4,7 +4,7 @@
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
 
-## 📊 My Contribution Graph <img src="https://i.pinimg.com/originals/38/31/f9/3831f9fd6d63a6ef2e97b3ac300e6c57.gif" width="23" height="25" />
+## 📊 My Contribution Graph <img src="https://i.pinimg.com/originals/38/31/f9/3831f9fd6d63a6ef2e97b3ac300e6c57.gif" width="33" height="35" />
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwingeorgeshaji&theme=tokyo-night)](https://github.com/edwingeorgeshaji)
 
 
