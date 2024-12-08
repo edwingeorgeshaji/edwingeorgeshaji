@@ -4,7 +4,7 @@
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
 
-## 📊 My Contribution Graph <img src="https://i.gifer.com/origin/0d/0dea0c59cbf084d981fc5b55643cb6e6_w200.gif" width="60" height="60" />
+## 📊 My Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwingeorgeshaji&theme=tokyo-night)](https://github.com/edwingeorgeshaji)
 
 
@@ -31,7 +31,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 - **Building Applications:** I love creating efficient, user-centered applications that solve real problems.
 - **Working with Data:** From data cleaning to in-depth analysis, I’m driven by the insights that data can bring.
 
-## 🐍 My GitHub Streak
+## 🐍 My GitHub Streak <img src="https://preview.redd.it/more-transparent-gifs-i-made-from-the-pok%C3%A9mon-anime-for-an-v0-djd5c2rjta9a1.gif" width="44" height="25" />
 <div align="center">
  
  ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
