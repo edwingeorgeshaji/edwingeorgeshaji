@@ -1,4 +1,4 @@
-# Yoo... the name is Edwin! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z2MHV4eTJnMXR2eW44c2J0MTRpZmVnNzdka2U1Y3pmaHNxMTdnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/imd3jTFduuu9h0AZGK/200.gif" width="41" height="30" />
+# Yoo... the name is Edwin! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQzNWU5NWtzZ2I1anNid2xjdmhqZzk0YmN2NHM5ZXZwcDN3MjY5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i3YKXSaSHM4Wy0lruY/giphy.gif" width="41" height="30" />
 
 
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
