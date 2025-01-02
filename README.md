@@ -65,8 +65,8 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 --- 
 
 <div align="center">
-  
-  <strong>[R.E.C](https://github.com/edwingeorgeshaji)</strong><em>(iykyk)</em>
+ 
+ <i><strong>[R.E.C](https://github.com/edwingeorgeshaji)</strong></i> <em>(iykyk)</em>
   
 </div>
 
