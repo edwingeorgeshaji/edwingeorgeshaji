@@ -61,3 +61,12 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 ---
 🌟 <em>*"Code is like humor. When you have to explain it, it’s bad."*<em> — Cory House 
+  
+
+<div align="center">
+  
+  <strong>[R.E.C](https://github.com/edwingeorgeshaji)</strong>
+  
+</div>
+
+---
