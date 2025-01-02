@@ -66,7 +66,7 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 <div align="center">
  
- Guys, actually it's me <strong> [R.E.C!](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
+ Guys, actually it's me <strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>!  <i>(ifykyk).</i>
   
 </div>
 
