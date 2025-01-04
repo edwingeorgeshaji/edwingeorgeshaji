@@ -55,7 +55,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 
 Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=ff3333&style=flat" alt="Edwin George Shaji" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=ff4d4d&style=flat" alt="Edwin George Shaji" /> </p>
 <p align="center"> <img src="https://i.imgur.com/Nm9V1ym.gif" width="104" height="39" />
 
 
