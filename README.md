@@ -5,7 +5,7 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 
 ## 📊 My Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwingeorgeshaji&theme=tokyo-night)](https://github.com/edwingeorgeshaji)
+[![Edwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwingeorgeshaji&theme=tokyo-night)](https://github.com/edwingeorgeshaji)
 
 
 
