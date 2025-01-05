@@ -37,15 +37,9 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
  ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
  
 </div>
-  
-## 📈 GitHub Stats
-<div align="center">
- 
- ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=tokyonight)
 
- </div>
 
- ## 🎯 Top Picks
+## 🎯 Top Picks
  ### [🐷 Technoblade Trivia Quiz](https://github.com/edwingeorgeshaji/TECHNOBLADE)
  A fun and engaging trivia quiz built to honor Technoblade, featuring questions about his achievements, gameplay, and legacy.
 
@@ -53,7 +47,15 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
  A simple and efficient task reminder app to help manage daily to-dos, built with Python for seamless functionality.
 
 
-## 🫱🏼‍🫲🏼 Let's Connect!
+
+## 📈 GitHub Stats
+<div align="center">
+ 
+ ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=tokyonight)
+
+ </div>
+
+ ## 🫱🏼‍🫲🏼 Let's Connect!
 <div align="center">
  </a> <a href="https://linktr.ee/edwingeorge_007" style="text-decoration: none;"><img width="38" height="38" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
  <a href="https://www.linkedin.com/in/edwingeorgeshaji" style="text-decoration: none;">
