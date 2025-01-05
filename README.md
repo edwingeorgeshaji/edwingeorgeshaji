@@ -45,6 +45,17 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
  </div>
 
+ ## 🎯 Top Picks
+ ### 🎮 [🐷 Technoblade Trivia Quiz](https://github.com/edwingeorgeshaji/TECHNOBLADE)
+
+
+
+
+
+
+
+
+
 ## 🫱🏼‍🫲🏼 Let's Connect!
 <div align="center">
  </a> <a href="https://linktr.ee/edwingeorge_007" style="text-decoration: none;"><img width="38" height="38" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
