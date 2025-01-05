@@ -72,7 +72,7 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 ---
  <div align='center'>
   
-  <strong>Bulit by, [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
+  Bulit by,<strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
  </div>
   
 ---
