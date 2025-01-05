@@ -70,13 +70,13 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 
 ---
- <div align='center'><em>"Code is like humor. When you have to explain it, it’s bad." — Cory House</em></div>
+ <strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
   
 ---
 
 <div align="center">
  
- <strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
+ <div align='center'><em>"Code is like humor. When you have to explain it, it’s bad." — Cory House</em></div>
   
 </div>
 
