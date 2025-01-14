@@ -84,3 +84,4 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
   
 </div>
 
+<p><div align = 'center'><img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" /></div></p>
