@@ -76,12 +76,13 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
   Bulit by,<strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
  </div>
   
----
 
 <div align="center">
  
  <em>"Code is like humor. When you have to explain it, it’s bad." — Cory House</em></div>
   
 </div>
+
+---
 
 <p><div align = 'center'><img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" /></div></p>
