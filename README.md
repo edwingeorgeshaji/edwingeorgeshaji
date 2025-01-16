@@ -42,7 +42,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 ## 🎯 Top Picks
  ### [🗓️ Guido Task Reminder App](https://github.com/edwingeorgeshaji/Firstman)
- A simple and efficient task reminder app to help manage daily to-dos, built with Python for seamless functionality.
+ A simple and efficient task reminder app to help manage daily to-dos, built with Python for seamless functionality
  
  ### [🐷 Technoblade Trivia Quiz](https://github.com/edwingeorgeshaji/TECHNOBLADE)
  A fun and engaging trivia quiz built to honor Technoblade, featuring questions about his achievements, gameplay, and legacy.
