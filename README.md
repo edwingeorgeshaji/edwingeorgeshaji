@@ -71,9 +71,7 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 ---
 
-<div align="center">
-   <img src="https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg" width="1050" alt="Snake animated contribution Graph" />
-</div>
+<p><div align = 'center'><img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" /></div></p>
 
 ---
 
@@ -95,4 +93,4 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
 
-<p><div align = 'center'><img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" /></div></p>
+
