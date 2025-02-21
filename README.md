@@ -69,12 +69,6 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=ff1919&style=flat" alt="Edwin George Shaji" /> </p>
 <p align="center"> <img src="https://i.imgur.com/Nm9V1ym.gif" width="104" height="39" />
 
----
-
-<p><div align = 'center'><img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" /></div></p>
-
----
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
 
@@ -93,4 +87,8 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
 
+---
 
+<p><div align = 'center'><img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" /></div></p>
+
+---
