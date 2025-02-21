@@ -69,6 +69,14 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=ff1919&style=flat" alt="Edwin George Shaji" /> </p>
 <p align="center"> <img src="https://i.imgur.com/Nm9V1ym.gif" width="104" height="39" />
 
+---
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg" width="1050" alt="Snake animated contribution Graph" />
+</div>
+
+---
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
 
