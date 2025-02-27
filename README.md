@@ -57,6 +57,17 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 </div>
 
  ## 🫱🏼‍🫲🏼 Let's Connect!
+
+
+<div align="center">
+ 
+![bg](https://github.com/user-attachments/assets/ec657fb6-6c35-49e4-b1fd-0e9be5c474ae)
+
+</div>
+
+
+
+ 
 <div align="center">
  <a href="https://linktr.ee/edwingeorge_007" style="text-decoration: none;"><img width="38" height="38" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
  <a href="https://www.linkedin.com/in/edwingeorgeshaji" style="text-decoration: none;">
@@ -68,15 +79,6 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=ff1919&style=flat" alt="Edwin George Shaji" /> </p>
 <p align="center"> <img src="https://i.imgur.com/Nm9V1ym.gif" width="104" height="39" />
-
-
-
-<div align="center">
- 
-![bg](https://github.com/user-attachments/assets/ec657fb6-6c35-49e4-b1fd-0e9be5c474ae)
-
-</div>
-
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
