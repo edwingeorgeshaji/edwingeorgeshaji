@@ -70,6 +70,15 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 <p align="center"> <img src="https://i.imgur.com/Nm9V1ym.gif" width="104" height="39" />
 
 
+
+<div align="center">
+ 
+![bg](https://github.com/user-attachments/assets/ec657fb6-6c35-49e4-b1fd-0e9be5c474ae)
+
+</div>
+
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
 
 
@@ -86,3 +95,4 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
+
