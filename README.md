@@ -6,7 +6,7 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 ## 📊 My Contribution Graph
 
-![GitHub Contributions](https://gitshine.com/card/edwingeorgeshaji?theme=auto)
+![GitHub Contributions](https://gitshine.com/card/edwingeorgeshaji?theme=night)
 
 
 ## 🛠️ Languages & Skills
