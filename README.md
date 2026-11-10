@@ -74,9 +74,9 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
  
 <div align="center">
- <a href="https://gravatar.com/edwingeorgeshaji" style="text-decoration: none;"><img width="38" height="38" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
- <a href="https://www.linkedin.com/in/edwingeorgeshaji" style="text-decoration: none;">
-  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> <a href="https://www.instagram.com/edwin_george_shaji" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwingeorgeshajipadiyanickal@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
+ <a href="https://edwingeorgeshaji.com" style="text-decoration: none;"><img width="38" height="38" src="https://github.com/edwingeorgeshaji/REC/blob/martin/site/public/favicon.svg" alt="Portfolio"/></a>
+ <a href="https://linkedin.com/in/edwingeorgeshaji" style="text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="36" height="36"/></a> <a href="https://instagram.com/edwin_george_shaji" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="36" height="36"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hellothere@edwingeorgeshaji.com" style="text-decoration: none;"><img src="https://www.svgrepo.com/show/484670/mail-part-3.svg" alt="Email" width="36" height="36"/></a>
 
 </div>
 
