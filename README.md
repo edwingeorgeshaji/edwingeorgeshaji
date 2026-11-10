@@ -18,11 +18,7 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
  <a href="https://www.python.org" style="display:inline-block;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><a href="https://isocpp.org/" style="text-decoration: none;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/><a href="https://www.linux.org" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/><a href="https://www.android.com" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/><a href="https://www.microsoft.com/en-in/windows?r=1" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" width="40" height="40"/>
 
 
-
-
 </div>
-
-
 
 
 ## 🌱 What I'm Currently Learning
@@ -76,7 +72,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 <div align="center">
  <a href="https://edwingeorgeshaji.com" style="text-decoration: none;"><img width="38" height="38" src="https://github.com/edwingeorgeshaji/REC/blob/martin/site/public/favicon.svg" alt="Portfolio"/></a>
  <a href="https://linkedin.com/in/edwingeorgeshaji" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="36" height="36"/></a> <a href="https://instagram.com/edwin_george_shaji" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="36" height="36"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hellothere@edwingeorgeshaji.com" style="text-decoration: none;"><img src="https://www.svgrepo.com/show/484670/mail-part-3.svg" alt="Email" width="36" height="36"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="36" height="36"/></a> <a href="https://instagram.com/edwin_george_shaji" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="36" height="36"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hellothere@edwingeorgeshaji.com" style="text-decoration: none;"><img src="https://github.com/edwingeorgeshaji/student-activity-tracker/blob/martin/airmail-envelope.svg" alt="Email" width="40" height="40"/></a>
 
 </div>
 
