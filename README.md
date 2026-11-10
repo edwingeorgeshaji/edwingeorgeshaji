@@ -53,11 +53,13 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 
 ## 📈 GitHub Stats
+
 <div align="center">
- 
- ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=tokyonight)
- 
+
+  ![Edwin's GitHub Stats](https://github-stats-extended.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=tokyonight)
+
 </div>
+
 
  ## 🫱🏼‍🫲🏼 Let's Connect!
 
