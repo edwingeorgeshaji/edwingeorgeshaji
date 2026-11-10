@@ -4,10 +4,13 @@
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
 
-## 📊 My Contribution Graph
+## 🗓️ My Contribution Graph
+
+<div align="center">
 
 ![GitHub Contributions](https://gitshine.com/card/edwingeorgeshaji?theme=night)
 
+</div>
 
 ## 🛠️ Languages & Skills
 <div align="center">
