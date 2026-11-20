@@ -1,7 +1,7 @@
 # Yoo... <img src="https://i.imgur.com/0Ce902y.gif" width="50" height="50" /> The name is <a href="https://www.edwingeorgeshaji.com/">Edwin!</a>
 
 
-I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
+I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building projects with LLMs and quantum computing, turning new ideas into working software that solves real problems.
 
 
 ## 🗓️ My Contribution Graph
