@@ -76,10 +76,13 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 <a href="https://edwingeorgeshaji.com" style="text-decoration: none;"><img width="38" height="38" src="https://github.com/edwingeorgeshaji/REC/blob/martin/site/public/favicon.svg" alt="Portfolio"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hellothere@edwingeorgeshaji.com" style="text-decoration: none;"><img src="https://github.com/edwingeorgeshaji/student-activity-tracker/blob/martin/airmail-envelope.svg" alt="Email" width="36" height="36"/></a>
 
-</div align='center'>
+</div>
 
-
+<div align='center'>
+ 
 Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
+
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=ff1919&style=flat" alt="Edwin George Shaji" /> </p>
 <p align="center"> <img src="https://i.imgur.com/Nm9V1ym.gif" width="104" height="39" />
 
