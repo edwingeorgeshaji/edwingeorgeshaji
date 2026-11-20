@@ -40,8 +40,8 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 
 ## 🎯 Top Picks
- ### [🗓️ Guido Task Reminder App](https://github.com/edwingeorgeshaji/Firstman)
- A simple and efficient task reminder app to help manage daily to-dos, built with Python for seamless functionality.
+ ### [🎲 Q-Site](https://github.com/edwingeorgeshaji/Q-Site)
+ A quantum-optimization tool that uses QAOA to pick the best battery storage locations for grid stability under AI data center load, cutting unsafe-voltage incidents by 10.0%.
  
  ### [📽️ MeetLite](https://github.com/edwingeorgeshaji/meetlite)
  A lightweight video conferencing app built from scratch in Python, featuring PIN-protected meetings and real-time audio and video over LAN or the internet.
