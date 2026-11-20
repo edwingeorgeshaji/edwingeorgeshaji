@@ -23,9 +23,9 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 ## 🌱 What I'm Currently Learning
 I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
-- Advanced data science techniques
-- Backend frameworks for web development
+- Machine learning and AI
 - New programming languages to diversify my skill set
+- Quantum optimisation and quantum algorithms with Qiskit and PennyLane
 
 ## 💡 What I Enjoy
 - **Building Applications:** I love creating efficient, user-centered applications that solve real problems.
