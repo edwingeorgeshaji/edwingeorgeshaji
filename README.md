@@ -29,7 +29,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 ## 💡 What I Enjoy
 - **Building Applications:** I love creating efficient, user-centered applications that solve real problems.
-- **Working with Data:** From data cleaning to in-depth analysis, I’m driven by the insights that data can bring.
+- **Building with LLMs:** Creating projects with LLMs and AI tools, while understanding how they work and guiding them to produce useful, working software.
 
 ## 🐍 My GitHub Streak
 <div align="center">
